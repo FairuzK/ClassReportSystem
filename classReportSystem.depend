@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656135180 source:c:\users\noah\desktop\c++\classreportsystem\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
